@@ -1,4 +1,4 @@
-"use client"
+// "use client"
 import { motion } from 'framer-motion';
 import React from 'react'
 import EmailIcon from '@mui/icons-material/Email';
